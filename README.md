@@ -11,6 +11,7 @@ requirements
 
 - nodejs 16.3.1LTS +
 - code editing program
+- Discord bot token https://discord.com/developers/applications
 
 Recommended program
 Visual Studio Code

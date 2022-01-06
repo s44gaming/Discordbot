@@ -9,7 +9,7 @@ discord server https://discord.gg/4dVdKU9Gt4
 
 requirements
 
-- nodejs
+- nodejs 16.3.1LTS +
 - code editing program
 
 Recommended program

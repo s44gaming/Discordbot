@@ -1,6 +1,6 @@
 # Discordbot
 
-If you need help with the bot then you can query it on the discord server on channel # ask-discordbot
+If you need help with the bot then you can ask to discord server on channel #ask-discordbot
 
 discord server https://discord.gg/4dVdKU9Gt4
 
